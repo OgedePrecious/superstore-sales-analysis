@@ -38,7 +38,7 @@ This project uses the **Sample Superstore** dataset, a publicly available retail
 
 ## Dashboard Preview
 
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](dashboard.png)
 
 ---
 
@@ -46,7 +46,7 @@ This project uses the **Sample Superstore** dataset, a publicly available retail
 
 Watch a short walkthrough of the interactive dashboard.
 
-▶️ [Watch Dashboard Demo](demo/dashboard-demo.mp4)
+▶️ [Watch Dashboard Demo](dashboard-demo.mp4)
 
 ---
 
@@ -54,7 +54,7 @@ Watch a short walkthrough of the interactive dashboard.
 
 The complete business analysis, findings, and recommendations are available in the report below.
 
-[📄 View Full Business Report](report/Superstore_Sales_Analysis_Report.pdf)
+[📄 View Full Business Report](Superstore_Sales_Analysis_Report.pdf)
 
 ---
 
@@ -97,12 +97,9 @@ For the complete findings and recommendations, please refer to the full business
 superstore-sales-analysis/
 │
 ├── README.md
-├── images/
-│   └── dashboard.png
-├── demo/
-│   └── dashboard-demo.mp4
-└── report/
-    └── Superstore_Sales_Analysis_Report.pdf
+├── dashboard.png
+├── dashboard-demo.mp4
+└── Superstore_Sales_Analysis_Report.pdf
 ```
 
 ---
