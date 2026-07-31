@@ -44,9 +44,9 @@ This project uses the **Sample Superstore** dataset, a publicly available retail
 
 ## Dashboard Demo
 
-Watch a short walkthrough of the interactive dashboard.
+See the dashboard in action and explore its interactive features.
 
-▶️ [Watch Dashboard Demo](dashboard-demo.mp4)
+▶️ [Watch Dashboard Demo](https://drive.google.com/file/d/1A169OXg7L38oYOsyhhCttpnwFnEwOZeu/view?usp=sharing)
 
 ---
 
@@ -98,7 +98,6 @@ superstore-sales-analysis/
 │
 ├── README.md
 ├── dashboard.png
-├── dashboard-demo.mp4
 └── Superstore_Sales_Analysis_Report.pdf
 ```
 
